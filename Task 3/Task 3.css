@@ -1,0 +1,31 @@
+div{
+    display: block;
+    color: aliceblue;
+}
+.wrapperone{
+    margin-left: 30%;
+}
+.wrappertwo{
+    margin-right: 25%;
+} 
+.left{
+    width: 30%;
+    float: left;
+}
+.right{
+    width: 25%;
+    float: right;
+}
+.tom{
+    width: 35%;
+    margin-left: 65%;
+}
+.jerry{
+    width: 35%;
+    margin-top: -18.5px;
+}
+.sin{
+    width: 30%;
+    margin-top: -36.5px;
+    margin-left: 35%;
+}

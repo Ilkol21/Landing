@@ -1,0 +1,12 @@
+.aside{
+    width: 20%;
+    border: 2px dotted grey;
+    display:block;
+    padding: 10px;
+}
+.main{
+    border: 2px solid black;
+    display: block;
+    padding: 10px; 
+    margin-left: 22.4%;
+}

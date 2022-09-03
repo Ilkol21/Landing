@@ -1,0 +1,10 @@
+body{
+    display: table;
+    width: 100%;
+}
+.joker{
+    border: 2px solid black;
+    display: table-cell;
+    min-width: 20px;
+    padding: 5px;
+}

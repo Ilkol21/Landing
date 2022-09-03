@@ -1,0 +1,21 @@
+.wrapper{
+    background-color: #FF0000;
+}
+.left{
+    width: 33.4%;
+    float: left;
+    background-color: #FF0000;
+    display: block;
+}
+.right{
+    float: right;
+    background-color: #FF0000;
+    width: 33.3%;
+    display: block;
+}
+.center{
+    width: 33.3%;
+    display: block;
+    margin-left: 33.4%;
+    background-color: white;
+}

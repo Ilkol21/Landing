@@ -1,0 +1,16 @@
+.navone{
+    position: fixed;
+    top: 25px;
+    left: 0;
+    right: 0;
+    background-color: red;
+    padding-left: 90px;
+}
+.navtwo{
+    position: fixed;
+    top: 43px;
+    left: 0;
+    right: 0;
+    background-color: red;  
+    padding-left: 90px;  
+}

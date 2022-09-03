@@ -1,0 +1,32 @@
+.first{
+    display: inline;
+}
+.second{
+    display: block;
+}
+.third{
+    display: inline;
+}
+.four{
+    display: block;
+}
+.five{
+    display: inline;
+}
+.six{
+    display:block;
+}
+.seven{
+    display: inline;
+}
+.eight{
+    display:inline-block;
+    margin-top: -20px;
+}
+.nine{
+    display: inline;
+}
+.ten{
+    display: inline-block;
+}
+
